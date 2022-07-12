@@ -1,4 +1,4 @@
-# agro-techfields-challenge
+# Agro-Techfields - Challenge
 Measure Shelter - REST API about a pseudo company
 
 ## About the project
