@@ -11,3 +11,6 @@ Measure Shelter - REST API about a pseudo company
   - Dependencies manager: Maven
   - Framework: Quarkus
   
+### How to install
+
+  It is advisable to have a little bit of knowledge about the tools mentioned above.
